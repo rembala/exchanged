@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchangeer", "Exchangeer\Exchangeer.csproj", "{D8298B67-2072-4C9E-A154-86E8A2B44101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeUniTests", "ExchangeUniTests\ExchangeUniTests.csproj", "{0F8FFE07-CC4C-46B8-8511-1AF40D968613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8298B67-2072-4C9E-A154-86E8A2B44101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8298B67-2072-4C9E-A154-86E8A2B44101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8298B67-2072-4C9E-A154-86E8A2B44101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8298B67-2072-4C9E-A154-86E8A2B44101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8FFE07-CC4C-46B8-8511-1AF40D968613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8FFE07-CC4C-46B8-8511-1AF40D968613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8FFE07-CC4C-46B8-8511-1AF40D968613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8FFE07-CC4C-46B8-8511-1AF40D968613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D69A818-3EEF-4261-9F7A-278435427000}
+	EndGlobalSection
+EndGlobal
